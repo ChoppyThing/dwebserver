@@ -1,0 +1,7 @@
+doctype html
+html
+	head
+		title Welcome to Admin
+	body
+		h1 Welcome to Admin
+		p Admin page

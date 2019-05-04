@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/takeatrain
+takeatrain.so
+takeatrain.dylib
+takeatrain.dll
+takeatrain.a
+takeatrain.lib
+takeatrain-test-*
+*.exe
+*.o
+*.obj
+*.lst
